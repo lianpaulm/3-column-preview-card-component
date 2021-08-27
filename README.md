@@ -19,9 +19,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
-
-![](./design/screenshot.png)
 
 <!-- ### Links
 
@@ -36,8 +33,8 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-## Author
+## My profile at Frontend mentor
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
 
-- Frontend Mentor - [@lianpaulm](https://www.frontendmentor.io/profile/lianpaulm)
+[@lianpaulm](https://www.frontendmentor.io/profile/lianpaulm)
